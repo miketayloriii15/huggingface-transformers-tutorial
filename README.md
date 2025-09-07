@@ -54,9 +54,3 @@ my_saved_models/
 License
 
 This project is open source and available under the MIT License
-.
-
-
----
-
-👉 Want me to also create a matching **`environment.yml`** file for Conda, so people can spin up your notebook in one step?
